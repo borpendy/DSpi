@@ -12,4 +12,4 @@ To ensure all trace impedances are correct, for the usb and display lines, you *
 <div align="center">
   <img src="https://i.imgur.com/nAFveAb.png" alt="Image of JLCPCB Settings" width="50%">
 </div>
-<p align="center">Reccomended JLCPCB Settings (All other values default)</p>
+<p align="center">Recommended JLCPCB Settings (All other values default)</p>
