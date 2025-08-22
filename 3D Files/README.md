@@ -1,5 +1,10 @@
+## Design Files
 All STLs required to build a DSpi + Blender document with all parts assembled, for reference
 <div align="center">
-  <img src="https://i.imgur.com/Q1SL3JN.png" alt="Image of DSpi Motherboard" width="80%">
+  <img src="https://i.imgur.com/mwygTb3.png" alt="Image of DSpi Motherboard" width="80%">
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/Q1SL3JN.png" alt="Lower DSpi" width="80%">
 </div>
 
