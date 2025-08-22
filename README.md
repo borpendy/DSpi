@@ -1,3 +1,7 @@
+<img width="2913" height="2710" alt="image" src="https://github.com/user-attachments/assets/c8e1ca5c-c803-4d05-9abe-f907f178ea98" /><div align="center">
+  <img src="https://i.imgur.com/Q1SL3JN.png" alt="Lower DSpi" width="80%">
+  <p align="center">Lower half DSpi model</p>
+</div>
 ## DSpi
 The DSpi is a Dual Screen Linux handheld powered by a Rasberry Pi Compute Module 5, designed primarily for DS emulation. The device features a 5000mah amp battery, Xbox pattern controller with dual analog sticks, Dual 480p DSI touchscreens, Stereo speakers and a DAC + Headphone amp. I reccomend using the Rasbian system image provided in the above files, featuring retropie for single screen systems, and melon DS for true dual screen DS emulation (System image coming soon).
 
