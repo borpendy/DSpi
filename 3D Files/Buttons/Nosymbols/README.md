@@ -1,0 +1,1 @@
+Buttons with no symbols
