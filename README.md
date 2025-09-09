@@ -17,3 +17,16 @@ The DSpi is a Dual Screen Linux handheld powered by a Rasberry Pi Compute Module
 
 ## Other notes
 This is still a mostly experimental project, and could still use a lot of work, especially on the software side in improving the user experience. Personally if i was looking to emulate DS, I would get either a 3ds, or one of the new android emulation handhelds, however this has still been a fun project to work on. Future plans for this include swapping the main screen to the new 5" touch display 2, and making some pcb adjustments to reduce the device width.
+
+
+
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
